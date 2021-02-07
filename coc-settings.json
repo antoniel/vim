@@ -4,7 +4,9 @@
     "javascriptreact",
     "typescript",
     "typescriptreact",
-    "json"
+    "json",
+    "html",
+    "css"
   ]
 }
 
